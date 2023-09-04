@@ -1,2 +1,2 @@
 # Lab1
-Laboratorio 1 Programación Bajo Plataformas Abiertas
+Lab1 Programación Bajo Plataformas Abiertas
